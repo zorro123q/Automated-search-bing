@@ -1,5 +1,5 @@
 # Automated-search-bing
-```markdown
+
 # Bing 中英混合自动搜索脚本（Playwright + 本机 Edge）
 
 使用 Playwright 控制本机 Microsoft Edge，自动完成多轮中英混合随机搜索。  
