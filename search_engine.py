@@ -23,7 +23,7 @@ MIN_SCROLL, MAX_SCROLL = 1, 3
 PAGE_TIMEOUT = 60000  # 毫秒
 LOAD_TIMEOUT = 45000  # 网页静态资源加载最长等待（毫秒）
 PAUSE_FOR_LOGIN = True  # 首次手动登录时改 True，登录完成后按 Enter 再开始搜索
-# 截图里日常使用的是 cn.bing.com；若想使用国际版，可换成 https://www.bing.com
+# 目前使用的是 cn.bing.com；若想使用国际版，可换成 https://www.bing.com
 BING_URL = "https://cn.bing.com"
 RESULT_SELECTOR = "#b_results .b_algo h2 a[href]:visible"
 SCRIPT_DIR = Path(__file__).resolve().parent
